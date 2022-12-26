@@ -29,6 +29,3 @@ for user in users:
 
 # Close the SSH connection
 ssh.close()
-
-
-
